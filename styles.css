@@ -9,7 +9,13 @@
 body { /*  Applying padding and margin 0 to the body ensures the background color covers the entire screen */
     padding: 0; 
     margin: 0;
-    background: linear-gradient(to right, #82A284, #446A46); /* first color starts on left, transitions to second color on right */
+    background: linear-gradient(to right, #E4AEC5, #FFC4DD); /* first color starts on left, transitions to second color on right */
+}
+
+.extra {
+    margin: auto;
+    font-size: 32px;
+    color: white;
 }
 
 .calculator-grid {
