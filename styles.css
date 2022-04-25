@@ -12,12 +12,6 @@ body { /*  Applying padding and margin 0 to the body ensures the background colo
     background: linear-gradient(to right, #E4AEC5, #FFC4DD); /* first color starts on left, transitions to second color on right */
 }
 
-.extra {
-    margin: auto;
-    font-size: 32px;
-    color: white;
-}
-
 .calculator-grid {
     display: grid;
     justify-content: center;
